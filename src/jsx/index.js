@@ -192,7 +192,7 @@ const Markup = () => {
   ];
 
   return (
-    <Router basename="/react">
+    <Router>
       <div
         id={`${!pagePath ? "main-wrapper" : ""}`}
         className={`${!pagePath ? "show" : "mh100vh"}`}
