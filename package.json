@@ -1,7 +1,7 @@
 {
   "name": "chrev",
   "version": "0.1.0",
-  "homepage": "http://chrev.dexignzone.com/react/",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
